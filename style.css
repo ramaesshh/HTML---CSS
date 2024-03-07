@@ -1,0 +1,30 @@
+/* .baseone{
+    background-color: rgb(255, 153, 0) !important; 
+}
+.basetwo{
+    color: rgb(72, 19, 141);
+} */
+
+
+/* #one{
+    background-color: aqua;       /* it is used to apply style individualy
+}
+#two{
+    background-color: bisque;
+} 
+*/
+
+div>h1{
+    background-color: aqua !important;
+    width: auto;
+    height: auto;
+}
+div>h2{
+    background-color: brown;
+    text-align: justify;
+}
+
+*{
+    background-color: steelblue;
+    color: aliceblue;
+}
